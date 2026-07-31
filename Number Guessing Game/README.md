@@ -1,0 +1,1 @@
+Instructions: To complete this project, you need to write a script that generates a random number between 1 and 1000 for users to guess. Create a number_guess database to hold the information suggested in the user stories.
